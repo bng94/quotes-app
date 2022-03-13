@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8071fe66.css",
+    "main.js": "/static/js/main.2713c00c.js",
+    "static/js/27.e0e8511c.chunk.js": "/static/js/27.e0e8511c.chunk.js",
+    "static/media/van-mendoza-r7YZXv5f5cc-unsplash.jpg": "/static/media/van-mendoza-r7YZXv5f5cc-unsplash.0ede6971b55af60ccd0e.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.8071fe66.css",
+    "static/js/main.2713c00c.js"
+  ]
+}
